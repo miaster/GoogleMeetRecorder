@@ -1,0 +1,2 @@
+G:\_AgnetCode\GoogleMeetRecorder\publish\GoogleMeetRecorder.pdb
+G:\_AgnetCode\GoogleMeetRecorder\publish\GoogleMeetRecorder.exe

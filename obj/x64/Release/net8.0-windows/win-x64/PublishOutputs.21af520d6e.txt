@@ -1,0 +1,7 @@
+C:\Users\Administrator\AppData\Local\Temp\1\claude\g---AgnetCode-GoogleMeetRecorder\f7f1e59d-0a96-46d9-9adc-6c56277f4923\scratchpad\publish_tmp\GoogleMeetRecorder.pdb
+C:\Users\Administrator\AppData\Local\Temp\1\claude\g---AgnetCode-GoogleMeetRecorder\f7f1e59d-0a96-46d9-9adc-6c56277f4923\scratchpad\publish_tmp\Microsoft.Web.WebView2.Core.xml
+C:\Users\Administrator\AppData\Local\Temp\1\claude\g---AgnetCode-GoogleMeetRecorder\f7f1e59d-0a96-46d9-9adc-6c56277f4923\scratchpad\publish_tmp\Microsoft.Web.WebView2.WinForms.xml
+C:\Users\Administrator\AppData\Local\Temp\1\claude\g---AgnetCode-GoogleMeetRecorder\f7f1e59d-0a96-46d9-9adc-6c56277f4923\scratchpad\publish_tmp\Microsoft.Web.WebView2.Wpf.xml
+C:\Users\Administrator\AppData\Local\Temp\1\claude\g---AgnetCode-GoogleMeetRecorder\f7f1e59d-0a96-46d9-9adc-6c56277f4923\scratchpad\publish_tmp\ScreenRecorderLib.pdb
+C:\Users\Administrator\AppData\Local\Temp\1\claude\g---AgnetCode-GoogleMeetRecorder\f7f1e59d-0a96-46d9-9adc-6c56277f4923\scratchpad\publish_tmp\ScreenRecorderLib.xml
+C:\Users\Administrator\AppData\Local\Temp\1\claude\g---AgnetCode-GoogleMeetRecorder\f7f1e59d-0a96-46d9-9adc-6c56277f4923\scratchpad\publish_tmp\GoogleMeetRecorder.exe
